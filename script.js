@@ -2,13 +2,13 @@
    1. Configuration
    ======================== */
 // Set your trip or anniversary date here
-const targetDate = new Date("March 15, 2026 00:00:00").getTime();
+const targetDate = new Date("March 7, 2026 00:00:00").getTime();
 
 // Add your image paths here for the background slideshow
 const bgImages = [
-    'https://source.unsplash.com/random/1920x1080/?sunset,couple',
-    'https://source.unsplash.com/random/1920x1080/?wedding,flowers',
-    'https://source.unsplash.com/random/1920x1080/?love,pink'
+    'https://pixedge.vercel.app/i/7r5tj6n6',
+    'https://pixedge.vercel.app/i/wbj65pde',
+    'https://pixedge.vercel.app/i/jy6tg7pa'
 ];
 
 /* ========================
